@@ -16,4 +16,4 @@
 * Input a sentence in text box and press *submit* button
 * Get the result.
 ### Demo
-(Coming soon)
+![Active/Passive Demo](https://github.com/armsp/active_or_passive/blob/master/demo.webm)
