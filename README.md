@@ -12,7 +12,7 @@
 ### Steps -
 * Run the flask server
     - python3 voice.py
-* Open [localhost:5000/voice](localhost:5000/voice) in your browser.
+* Open [_localhost:5000/voice_](https://localhost:5000/voice) in your browser.
 * Input a sentence in text box and press *submit* button
 * Get the result.
 ### Demo
